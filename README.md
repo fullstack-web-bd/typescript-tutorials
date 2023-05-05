@@ -1,1 +1,3 @@
-# typescript-tutorials
+# Typescript tutorials
+
+TypeScript tutorials for online course.
